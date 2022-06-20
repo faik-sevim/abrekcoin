@@ -8,7 +8,7 @@ Getting more experience and lifelong learning are my motivations. I like to make
 
 - 🔒 I’m working on Cybersecurity field.
 
--  👀 curious about software developing and big data technologies
+-  👀 curious about software developing, hobby electronics and big data technologies
 
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
