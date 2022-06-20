@@ -1,7 +1,6 @@
 
 
-![Slangt_gif](https://github.com/abrekcoin/Actions/blob/main/slangt.gif)  
-👋 Hi, I’m Faik 
+![Slangt_gif](https://github.com/abrekcoin/Actions/blob/main/slangt.gif)  👋 Hi, I’m Faik 
 
 Getting more experience and lifelong learning are my motivations. I like to make
 a brainstorm about complicated problems to solve them. This gives opportunity
