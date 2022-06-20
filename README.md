@@ -1,7 +1,9 @@
+![snake gif](https://github.com/abrekcoin/Actions/blob/main/slangt.gif) 
+                                                 
 
-![snake gif](https://github.com/abrekcoin/Actions/blob/bb45049a5d98a126ca4f585dd960f3bb82b2a86a/Project%20Name.gif)
+👋 Hi,  This is Faik 
 
-👋 Hi, This is Faik 
+
 
 Getting more experience and lifelong learning are my motivations. I like to make
 a brainstorm about complicated problems to solve them. This gives opportunity
