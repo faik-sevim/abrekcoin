@@ -1,5 +1,4 @@
-![snake gif](https://github.com/abrekcoin/Actions/blob/main/slangt.gif) 
-                                                 
+   <img align="left" src="https://github.com/abrekcoin/Actions/blob/main/slangt.gif" alt="My Image">                                              
 
 👋 Hi,  This is Faik 
 
