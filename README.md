@@ -6,9 +6,9 @@
 
 Getting more experience and lifelong learning are my motivations. I like to make a brainstorm about complicated problems. This gives opportunity to make more experience and support my lifelong learning motivation. My objective is to create new products by combining what I have learned.
 
-- 🔒 I’m working in Cybersecurity fiedld.
+- 🔒 I’m working in Cybersecurity field.
 
--  👀 currios about software developing and big data technologies
+-  👀 curious about software developing and big data technologies
 
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
