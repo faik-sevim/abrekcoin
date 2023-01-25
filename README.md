@@ -10,7 +10,7 @@ Getting more experience and lifelong learning are my motivations. I like to make
 
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-- 📫 How to reach me faik.sevim@itu.edu.tr
+- 📫 faik.sevim@itu.edu.tr
 
 [![name](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://faik-sevim.medium.com/)    [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faik-sevim/)
 
